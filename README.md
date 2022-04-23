@@ -50,15 +50,11 @@ This folder contains the csv file of our dataset, as well as the data file conta
 <br>
 
 ## References
-Aprilliant, A. (2022, March 31). The K-prototype as clustering algorithm for mixed data type (categorical and numerical). Medium. Retrieved April 22, 2022, from https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb
-
-Elbow method. Elbow Method - Yellowbrick v1.4 documentation. (n.d.). Retrieved April 22, 2022, from https://www.scikit-yb.org/en/latest/api/cluster/elbow.html#:~:text=If%20the%20line%20chart%20looks,fits%20best%20at%20that%20point.
-
-How to use knee point detection in K means clustering. Practical Data Science. (2021, March 12). Retrieved April 22, 2022, from https://practicaldatascience.co.uk/machine-learning/how-to-use-knee-point-detection-in-k-means-clustering
-
-Imputation techniques: What are the types of imputation techniques. Analytics Vidhya. (2021, June 30). Retrieved April 22, 2022, from https://www.analyticsvidhya.com/blog/2021/06/defining-analysing-and-implementing-imputation-techniques/
-
-Zazueta, Z. (2020, October 1). Data transformation in ML - standardization vs normalization. Medium. Retrieved April 22, 2022, from https://zachary-a-zazueta.medium.com/data-transformation-in-ml-standardization-vs-normalization-70ba26de9060
-
-Zazueta, Z. (2021, August 7). K-prototypes clustering - for when you're clustering continuous and categorical data. Medium. Retrieved April 23, 2022, from https://zachary-a-zazueta.medium.com/k-prototypes-clustering-for-when-youre-clustering-continuous-and-categorical-data-6ea42c2ab2b9
+Aprilliant, A. (2022, March 31). The K-prototype as clustering algorithm for mixed data type (categorical and numerical). Medium. Retrieved April 22, 2022, from https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb 
+Elbow method. Elbow Method - Yellowbrick v1.4 documentation. (n.d.). Retrieved April 22, 2022, from https://www.scikit-yb.org/en/latest/api/cluster/elbow.html#:~:text=If%20the%20line%20chart%20looks,fits%20best%20at%20that%20point. 
+How to use knee point detection in K means clustering. Practical Data Science. (2021, March 12). Retrieved April 22, 2022, from https://practicaldatascience.co.uk/machine-learning/how-to-use-knee-point-detection-in-k-means-clustering 
+Imputation techniques: What are the types of imputation techniques. Analytics Vidhya. (2021, June 30). Retrieved April 22, 2022, from https://www.analyticsvidhya.com/blog/2021/06/defining-analysing-and-implementing-imputation-techniques/ 
+Saldanha, R. (2020, May 8). Marketing campaign. Kaggle. Retrieved April 23, 2022, from https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
+Zazueta, Z. (2020, October 1). Data transformation in ML - standardization vs normalization. Medium. Retrieved April 22, 2022, from https://zachary-a-zazueta.medium.com/data-transformation-in-ml-standardization-vs-normalization-70ba26de9060 
+Zazueta, Z. (2021, August 7). K-prototypes clustering - for when you're clustering continuous and categorical data. Medium. Retrieved April 23, 2022, from https://zachary-a-zazueta.medium.com/k-prototypes-clustering-for-when-youre-clustering-continuous-and-categorical-data-6ea42c2ab2b9 
 
