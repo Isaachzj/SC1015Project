@@ -1,9 +1,11 @@
 # SC1015 Project - Saving Mall X
+
 ## Mall X
 Mall X is one of the oldest most established malls in Singapore who has constantly been ranked as Singapore's highest earning shopping mall. 
 However, when the pandemic struck, sales plummeted and Mall X was overtaken by its rival, Mall Y. Seeking to reclaim its title of highest earning shopping mall, the marketing team was tasked to devise strategies to increase sales.
 
 Taking on the role of data analysts in the marketing team, we decided to enhance existing advertisements to attract greater sales without incuring too much additional costs. To do this, we performed a customer segmentation analysis on the mall's existing customer data.
+
 
 
 ## Our roles
@@ -12,6 +14,11 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 @yankailim - Analytic Visualisation, Cluster Analysis
 
 @seah_js - Exploratory Data Analysis, Advertisement Design Strategisation.
+
+
+
+## The "Marketing Campaign" Dataset
+Uploaded in 2014, this Kaggle dataset contains the profile of the customers visiting a certain mall. It contains key information such as Age, Income, Education Status and Marital Status of the customers. Apart from this, it also contains data such as the amount spent by the customer on various products sold at the mall (Wine, Fruits, Meat, Fish, Gold) and number of purchases made on the various purchasing platforms (Physical Stores, Website, Catalogue).
 
 
 ## Project Folder
@@ -23,7 +30,8 @@ This notebook consists of the Problem Introduction, Data Preparation, Explorator
 We began by giving a short introduction of the problem and a basic description of the project. Thereafter, we proceded to clean and prepare the data by droppping irrelevant columns, rows with null values and forming new columns to aid our analysis etcetra. Following this, we carried out an Exploratory Data Analysis thorugh uni-variate and bi-variate analysis of the various variables. Lastly, we clustered the data using K-Prototypes and serialised the results in 'dataFile' in "Data Folder". 
 
 ### "Part 2" 
-In this notebook, we first analysed the profile of the customers in each of the clusters formed. Using the insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
+In this notebook, we analysed the profile of the customers in each of the clusters formed. Using the insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
+
 
 
 ## Data Folder
@@ -32,6 +40,7 @@ This folder contains the csv file of our dataset, as well as the data file conta
 **marketing_campaign.csv** - this is our dataset
 
 **dataFile** - this file contains the serialized results of our clustering model.
+
 
 
 ## References
