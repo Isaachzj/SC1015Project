@@ -8,6 +8,7 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 
 
 <br>
+
 ## Our roles
 @Isaachzj - Data Preparation, Exploratory Data Analysis, Cluster Analysis
 
