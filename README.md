@@ -15,7 +15,7 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 
 ## Project Folder
 This folder contains the two Jupyter Notebooks for our project. Here is a description of each of the noteboooks.
-  ### i. Part 1
+### i. Part 1
 
 
 
