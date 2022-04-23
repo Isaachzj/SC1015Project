@@ -17,6 +17,7 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 @seah_js - Exploratory Data Analysis, Advertisement Design Strategisation.
 
 
+<br>
 
 ## The "Marketing Campaign" Dataset
 Uploaded in 2014, this Kaggle dataset contains the profile of the customers visiting a certain mall. It contains key information such as Age, Income, Education Status and Marital Status of the customers. Apart from this, it also contains data such as the amount spent by the customer on various products sold at the mall (Wine, Fruits, Meat, Fish, Gold) and number of purchases made on the various purchasing platforms (Physical Stores, Website, Catalogue).
@@ -35,6 +36,8 @@ In this notebook, we analysed the profile of the customers in each of the cluste
 
 
 
+<br>
+
 ## Data Folder
 This folder contains the csv file of our dataset, as well as the data file containing our clustering results.
 
@@ -43,6 +46,8 @@ This folder contains the csv file of our dataset, as well as the data file conta
 **dataFile** - this file contains the serialized results of our clustering model.
 
 
+
+<br>
 
 ## References
 Aprilliant, A. (2022, March 31). The K-prototype as clustering algorithm for mixed data type (categorical and numerical). Medium. Retrieved April 22, 2022, from https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb
