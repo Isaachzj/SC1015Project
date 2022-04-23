@@ -5,10 +5,16 @@ However, when the pandemic struck, sales plummeted and Mall X was overtaken by i
 
 Taking on the role of data analysts in the marketing team, we decided to enhance existing advertisements to attract greater sales without incuring too much additional costs. To do this, we performed a customer segmentation analysis on the mall's existing customer data.
 
-# Project Folder
+## Our roles
+@Isaachzj - Data Preparation, Exploratory Data Analysis, Cluster Analysis
+@yankailim - Analytic Visualisation, Cluster Analysis
+@seah_js - Exploratory Data Analysis, Advertisement Design Strategisation.
 
 
-# Datasets Folder
+## Project Folder
+
+
+## Datasets Folder
 
 
 
