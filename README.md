@@ -25,11 +25,9 @@ For this notebook, we first analysed the profile of the customers in each of the
 ## Data Folder
 This folder contains the csv file of our dataset, as well as the data file containing our clustering results.
 
-### 
-#### marketing_campaign.csv
-This is our dataset
+**marketing_campaign.csv** - this is our dataset
 
-#### dataFile
-This file contains the serialized results of our clustering model.
+**dataFile** - this file contains the serialized results of our clustering model.
 
 ## References
+
