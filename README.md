@@ -5,6 +5,7 @@ However, when the pandemic struck, sales plummeted and Mall X was overtaken by i
 
 Taking on the role of data analysts in the marketing team, we decided to enhance existing advertisements to attract greater sales without incuring too much additional costs. To do this, we performed a customer segmentation analysis on the mall's existing customer data.
 
+
 ## Our roles
 @Isaachzj - Data Preparation, Exploratory Data Analysis, Cluster Analysis
 
@@ -22,12 +23,14 @@ We began by giving a short introduction of the problem. After cleaning and prepa
 ### Part 2 
 For this notebook, we first analysed the profile of the customers in each of the clusters formed. Using the insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
 
+
 ## Data Folder
 This folder contains the csv file of our dataset, as well as the data file containing our clustering results.
 
 **marketing_campaign.csv** - this is our dataset
 
 **dataFile** - this file contains the serialized results of our clustering model.
+
 
 ## References
 
