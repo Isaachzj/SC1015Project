@@ -17,10 +17,10 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 ## Project Folder
 This folder contains the two Jupyter Notebooks for our project. Here is a description of our work in each of the notebooks.
 
-### Part 1
+### "Part 1"
 We began by giving a short introduction of the problem. After cleaning and preparing the data, we did an Exploratory Data Analysis thorugh uni-variate and bi-variate analysis of the various variables. Thereafter, we clustered the data using K-Prototypes and serialised the results in 'dataFile' in "Data Folder". 
 
-### Part 2 
+### "Part 2" 
 For this notebook, we first analysed the profile of the customers in each of the clusters formed. Using the insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
 
 
