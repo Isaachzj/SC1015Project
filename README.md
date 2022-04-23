@@ -18,10 +18,12 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 This folder contains the two Jupyter Notebooks for our project. Here is a description of our work in each of the notebooks.
 
 ### "Part 1"
+This notebook consists of the Problem Introduction, Data Preparation, Exploratory Data Analysis and Machine Learning steps in the Data Science Pipeline.
+
 We began by giving a short introduction of the problem and a basic description of the project. Thereafter, we proceded to clean and prepare the data by droppping irrelevant columns, rows with null values and forming new columns to aid our analysis etcetra. Following this, we carried out an Exploratory Data Analysis thorugh uni-variate and bi-variate analysis of the various variables. Lastly, we clustered the data using K-Prototypes and serialised the results in 'dataFile' in "Data Folder". 
 
 ### "Part 2" 
-For this notebook, we first analysed the profile of the customers in each of the clusters formed. Using the insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
+In this notebook, we first analysed the profile of the customers in each of the clusters formed. Using the insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
 
 
 ## Data Folder
