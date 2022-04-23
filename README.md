@@ -34,7 +34,7 @@ This notebook consists of the Problem Introduction, Data Preparation, Explorator
 We began by giving a short introduction of the problem and a basic description of the project. Thereafter, we proceded to clean and prepare the data by droppping irrelevant columns, rows with null values and forming new columns to aid our analysis etcetra. Following this, we carried out an Exploratory Data Analysis thorugh uni-variate and bi-variate analysis of the various variables. Lastly, we clustered the data using K-Prototypes and serialised the results in 'dataFile' in "Data Folder". 
 
 ### "Part 2" 
-In this notebook, we analysed the profile of the customers in each of the clusters formed. Using the insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
+In this notebook, we analysed the profile of the customers in each of the clusters formed. Using insights derived from the process, we gave suggestions on how existing Advertisements could be improved.
 
 
 <br>
