@@ -10,9 +10,9 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 <br>
 
 ## Our roles
-@Isaachzj - Data Preparation, Exploratory Data Analysis, Cluster Analysis
+@Isaachzj - Data Preparation, Exploratory Data Analysis, Machine Learning (Clustering)
 
-@yankailim - Analytic Visualisation, Cluster Analysis
+@yankailim - Analytic Visualisation, Machine Learning (Clustering)
 
 @seah_js - Exploratory Data Analysis, Advertisement Design Strategisation.
 
