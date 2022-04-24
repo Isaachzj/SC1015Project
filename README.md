@@ -42,6 +42,9 @@ In this notebook, we analysed the profile of the customers in each of the cluste
 
 ### "group8_dsf3_slides"
 Here are our presentation slides in pdf format.
+
+
+
 <br>
 
 ## Data Folder
