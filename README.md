@@ -4,7 +4,7 @@
 Mall X is one of the oldest most established malls in Singapore who has constantly been ranked as Singapore's highest earning shopping mall. 
 However, when the pandemic struck, sales plummeted and Mall X was overtaken by its rival, Mall Y. Seeking to reclaim its title of highest earning shopping mall, the marketing team was tasked to devise strategies to increase its sales.
 
-Taking on the role of data analysts in the marketing team, we decided to enhance existing advertisements to attract greater sales without incuring too much additional costs. To do this, we performed a customer segmentation analysis on the mall's existing customer data.
+Taking on the role of data analysts in the marketing team, we decided to enhance existing advertisements to attract greater sales without incurring too much additional costs. To do this, we performed a customer segmentation analysis on the mall's existing customer data.
 
 
 <br>
@@ -33,7 +33,7 @@ This folder contains the two Jupyter Notebooks for our project. Here is a descri
 ### "Part 1"
 This notebook consists of the Problem Introduction, Data Preparation, Exploratory Data Analysis and Machine Learning steps in the Data Science Pipeline.
 
-We began by giving a short introduction of the problem and a basic description of the project. Thereafter, we proceded to clean and prepare the data by droppping irrelevant columns, rows with null values and forming new columns to aid our analysis etcetra. Following this, we carried out an Exploratory Data Analysis thorugh uni-variate and bi-variate analysis of the various variables. Lastly, we clustered the data using K-Prototypes and serialised the results in 'dataFile' in "Data Folder". 
+We began by giving a short introduction of the problem and a basic description of the project. Thereafter, we proceded to clean and prepare the data by droppping irrelevant columns, rows with null values and forming new columns to aid our analysis etcetra. Following this, we carried out an Exploratory Data Analysis thorugh uni-variate and bi-variate analysis of the various variables. Lastly, we clustered the data using K-Prototypes and serialised the results into 'dataFile' in "Data Folder". 
 
 ### "Part 2" 
 In this notebook, we analysed the profile of the customers in each of the clusters formed. Using insights derived from the process, we gave suggestions on how existing Advertisements could be improved ethically.
