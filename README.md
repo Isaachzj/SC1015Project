@@ -20,9 +20,9 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 <br>
 
 ## The "Marketing Campaign" Dataset
-Uploaded in 2014, this Kaggle dataset contains the profile of the customers visiting a certain mall. It contains key information such as Age, Income, Education Status and Marital Status of the customers. Apart from this, it also contains data such as the amount spent by the customer on various products sold at the mall (Wine, Fruits, Meat, Fish, Gold) and number of purchases made on the various purchasing platforms (Physical Stores, Website, Catalogue).
+Uploaded in 2014 by Rodolfo Saldanha, this Kaggle dataset contains the profile of the customers visiting a certain mall. It contains key information such as Age, Income, Education Status and Marital Status of the customers. Apart from this, it also contains data such as the amount spent by the customer on various products sold at the mall (Wine, Fruits, Meat, Fish, Gold) and number of purchases made on the various purchasing platforms (Physical Stores, Website, Catalogue).
 
-This dataset can be accessed via this link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis 
+This dataset can be accessed via this link: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
 
 
 <br>
@@ -63,7 +63,7 @@ How to use knee point detection in K means clustering. Practical Data Science. (
 
 Imputation techniques: What are the types of imputation techniques. Analytics Vidhya. (2021, June 30). Retrieved April 22, 2022, from https://www.analyticsvidhya.com/blog/2021/06/defining-analysing-and-implementing-imputation-techniques/ 
 
-Patel, A. (2021, August 22). Customer personality analysis. Kaggle. Retrieved April 24, 2022, from https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis 
+Saldanha, R. (2020, May 8). Marketing campaign. Kaggle. Retrieved April 24, 2022, from https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
 
 Zazueta, Z. (2020, October 1). Data transformation in ML - standardization vs normalization. Medium. Retrieved April 22, 2022, from https://zachary-a-zazueta.medium.com/data-transformation-in-ml-standardization-vs-normalization-70ba26de9060 
 
