@@ -20,7 +20,7 @@ Taking on the role of data analysts in the marketing team, we decided to enhance
 <br>
 
 ## The "Marketing Campaign" Dataset
-Uploaded in 2014 by Rodolfo Saldanha, this Kaggle dataset contains the profile of the customers visiting a certain mall. It contains key information such as Age, Income, Education Status and Marital Status of the customers. Apart from this, it also contains data such as the amount spent by the customer on various products sold at the mall (Wine, Fruits, Meat, Fish, Gold) and number of purchases made on the various purchasing platforms (Physical Stores, Website, Catalogue).
+Uploaded by Rodolfo Saldanha, this Kaggle dataset contains the profile of the customers visiting a certain mall. It contains key information such as Age, Income, Education Status and Marital Status of the customers. Apart from this, it also contains data such as the amount spent by the customer on various products sold at the mall (Wine, Fruits, Meat, Fish, Gold) and number of purchases made on the various purchasing platforms (Physical Stores, Website, Catalogue).
 
 This dataset can be accessed via this link: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
 
