@@ -39,9 +39,9 @@ We began by giving a short introduction of the problem and a basic description o
 In this notebook, we analysed the profile of the customers in each of the clusters formed. Using insights derived from the process, we gave suggestions on how existing Advertisements could be improved ethically.
 
 
+
 ### "group8_dsf3_slides"
 Here are our presentation slides.
-
 <br>
 
 ## Data Folder
